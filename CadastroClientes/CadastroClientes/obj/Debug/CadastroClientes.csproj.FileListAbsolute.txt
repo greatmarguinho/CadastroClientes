@@ -1,0 +1,8 @@
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\Marco Antonio\source\repos\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
